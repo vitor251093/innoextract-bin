@@ -1,0 +1,6 @@
+mac/innoextract filter=lfs diff=lfs merge=lfs -text
+linux/ia32/innoextract filter=lfs diff=lfs merge=lfs -text
+linux/x64/innoextract filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.sfx filter=lfs diff=lfs merge=lfs -text

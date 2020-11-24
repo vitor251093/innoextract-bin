@@ -1,0 +1,19 @@
+{
+    "name": "innoextract-bin",
+    "description": "innoextract precompiled binaries",
+    "version": "1.9",
+    "files": [
+      "*.js",
+      "index.d.ts",
+      "linux",
+      "mac",
+      "win"
+    ],
+    "license": "MIT",
+    "repository": "vitor251093/innoextract-bin",
+    "keywords": [
+      "innoextract",
+      "inno",
+      "extract"
+    ]
+  }

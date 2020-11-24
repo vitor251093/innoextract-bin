@@ -1,19 +1,19 @@
 {
-    "name": "innoextract-bin",
-    "description": "innoextract precompiled binaries",
-    "version": "1.9",
-    "files": [
-      "*.js",
-      "index.d.ts",
-      "linux",
-      "mac",
-      "win"
-    ],
-    "license": "MIT",
-    "repository": "vitor251093/innoextract-bin",
-    "keywords": [
-      "innoextract",
-      "inno",
-      "extract"
-    ]
-  }
+  "name": "innoextract-bin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitor251093/innoextract-bin.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitor251093/innoextract-bin/issues"
+  },
+  "homepage": "https://github.com/vitor251093/innoextract-bin#readme"
+}
